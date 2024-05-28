@@ -1,0 +1,82 @@
+Epoch 1/20
+74/74 [==============================] - 1s 1ms/step loss: 0.4486 - accuracy: 0.7949
+Validation Accuracy: 0.5002, Validation F1 Score: 0.8759
+295/295 [==============================] - 5s 9ms/step - loss: 0.4479 - accuracy: 0.7954 - val_loss: 0.2921 - val_accuracy: 0.8790
+Epoch 2/20
+74/74 [==============================] - 0s 1ms/step loss: 0.2570 - accuracy: 0.8965
+Validation Accuracy: 0.5002, Validation F1 Score: 0.9439
+295/295 [==============================] - 2s 5ms/step - loss: 0.2562 - accuracy: 0.8967 - val_loss: 0.1416 - val_accuracy: 0.9452
+Epoch 3/20
+74/74 [==============================] - 0s 1ms/step loss: 0.1708 - accuracy: 0.9361
+Validation Accuracy: 0.5002, Validation F1 Score: 0.9628
+295/295 [==============================] - 2s 5ms/step - loss: 0.1713 - accuracy: 0.9356 - val_loss: 0.1011 - val_accuracy: 0.9635
+Epoch 4/20
+74/74 [==============================] - 0s 1ms/step loss: 0.1365 - accuracy: 0.9463
+Validation Accuracy: 0.5000, Validation F1 Score: 0.9692
+295/295 [==============================] - 2s 5ms/step - loss: 0.1368 - accuracy: 0.9460 - val_loss: 0.0868 - val_accuracy: 0.9694
+Epoch 5/20
+74/74 [==============================] - 0s 1ms/step loss: 0.1171 - accuracy: 0.9562
+Validation Accuracy: 0.4998, Validation F1 Score: 0.9722
+295/295 [==============================] - 2s 5ms/step - loss: 0.1167 - accuracy: 0.9563 - val_loss: 0.0791 - val_accuracy: 0.9720
+Epoch 6/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0947 - accuracy: 0.9655
+Validation Accuracy: 0.5000, Validation F1 Score: 0.9812
+295/295 [==============================] - 2s 5ms/step - loss: 0.0947 - accuracy: 0.9655 - val_loss: 0.0572 - val_accuracy: 0.9813
+Epoch 7/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0907 - accuracy: 0.9667
+Validation Accuracy: 0.5000, Validation F1 Score: 0.9800
+295/295 [==============================] - 2s 5ms/step - loss: 0.0902 - accuracy: 0.9668 - val_loss: 0.0610 - val_accuracy: 0.9801
+Epoch 8/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0784 - accuracy: 0.9708
+Validation Accuracy: 0.4999, Validation F1 Score: 0.9822
+295/295 [==============================] - 2s 5ms/step - loss: 0.0789 - accuracy: 0.9703 - val_loss: 0.0563 - val_accuracy: 0.9822
+Epoch 9/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0760 - accuracy: 0.9732
+Validation Accuracy: 0.4999, Validation F1 Score: 0.9805
+295/295 [==============================] - 2s 5ms/step - loss: 0.0764 - accuracy: 0.9728 - val_loss: 0.0598 - val_accuracy: 0.9805
+Epoch 10/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0639 - accuracy: 0.9761
+Validation Accuracy: 0.5001, Validation F1 Score: 0.9897
+295/295 [==============================] - 2s 5ms/step - loss: 0.0644 - accuracy: 0.9761 - val_loss: 0.0371 - val_accuracy: 0.9898
+Epoch 11/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0541 - accuracy: 0.9794
+Validation Accuracy: 0.5000, Validation F1 Score: 0.9897
+295/295 [==============================] - 2s 5ms/step - loss: 0.0551 - accuracy: 0.9791 - val_loss: 0.0359 - val_accuracy: 0.9898
+Epoch 12/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0523 - accuracy: 0.9807
+Validation Accuracy: 0.5002, Validation F1 Score: 0.9827
+295/295 [==============================] - 2s 5ms/step - loss: 0.0519 - accuracy: 0.9810 - val_loss: 0.0497 - val_accuracy: 0.9830
+Epoch 13/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0496 - accuracy: 0.9834
+Validation Accuracy: 0.5001, Validation F1 Score: 0.9879
+295/295 [==============================] - 2s 6ms/step - loss: 0.0494 - accuracy: 0.9832 - val_loss: 0.0395 - val_accuracy: 0.9881
+Epoch 14/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0510 - accuracy: 0.9815
+Validation Accuracy: 0.4999, Validation F1 Score: 0.9810
+295/295 [==============================] - 2s 5ms/step - loss: 0.0511 - accuracy: 0.9813 - val_loss: 0.0571 - val_accuracy: 0.9809
+Epoch 15/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0425 - accuracy: 0.9833
+Validation Accuracy: 0.5000, Validation F1 Score: 0.9893
+295/295 [==============================] - 2s 5ms/step - loss: 0.0424 - accuracy: 0.9833 - val_loss: 0.0346 - val_accuracy: 0.9894
+Epoch 16/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0421 - accuracy: 0.9849
+Validation Accuracy: 0.5001, Validation F1 Score: 0.9918
+295/295 [==============================] - 2s 5ms/step - loss: 0.0416 - accuracy: 0.9849 - val_loss: 0.0251 - val_accuracy: 0.9919
+Epoch 17/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0396 - accuracy: 0.9856
+Validation Accuracy: 0.5001, Validation F1 Score: 0.9892
+295/295 [==============================] - 2s 5ms/step - loss: 0.0386 - accuracy: 0.9861 - val_loss: 0.0294 - val_accuracy: 0.9894
+Epoch 18/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0345 - accuracy: 0.9878
+Validation Accuracy: 0.5001, Validation F1 Score: 0.9910
+295/295 [==============================] - 2s 5ms/step - loss: 0.0343 - accuracy: 0.9879 - val_loss: 0.0263 - val_accuracy: 0.9911
+Epoch 19/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0352 - accuracy: 0.9866
+Validation Accuracy: 0.5000, Validation F1 Score: 0.9885
+295/295 [==============================] - 2s 5ms/step - loss: 0.0352 - accuracy: 0.9865 - val_loss: 0.0333 - val_accuracy: 0.9885
+Epoch 20/20
+74/74 [==============================] - 0s 1ms/step loss: 0.0326 - accuracy: 0.9885
+Validation Accuracy: 0.5001, Validation F1 Score: 0.9901
+295/295 [==============================] - 2s 5ms/step - loss: 0.0321 - accuracy: 0.9885 - val_loss: 0.0285 - val_accuracy: 0.9902
+74/74 [==============================] - 0s 1ms/step - loss: 0.0285 - accuracy: 0.9902
+Test Loss: 0.028507500886917114, Test Accuracy: 0.9902377128601074

@@ -1,0 +1,10 @@
+Layer conv1d: Gradient Norm = 3.1949734687805176
+Layer max_pooling1d: Gradient Norm = 0.13237066566944122
+Layer dropout: Gradient Norm = 4.221711158752441
+Layer conv1d_1: Gradient Norm = 0.1220540702342987
+Layer max_pooling1d_1: Gradient Norm = 5.751877784729004
+Layer dropout_1: Gradient Norm = 0.5384106040000916
+Layer lstm: Gradient Norm = 0.12745781242847443
+Layer lstm_1: Gradient Norm = 1.4033795595169067
+Layer dense: Gradient Norm = 1.10952889919281
+Layer dense_1: Gradient Norm = 0.33946794271469116
